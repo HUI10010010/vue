@@ -4,7 +4,6 @@
   </div>
 </template>
 
-123123
 <script>
 import { Toast } from 'vant';
 export default {
